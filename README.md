@@ -6,3 +6,5 @@ The MovieData.csv file contains the dataset that is intended for colleagues to u
 The Task_Notebook.ipynb file is the jupyter notebook file containing the script used to concatenate the four different CSV files from the groupjens.com website.
 
 The original data from the groupjens.com website is also available in the Original data folder containing the zip file and the four different CSV files. 
+
+For questions or need of help kindly reach out to Morten Ratzer Lund on +45 22923489. 
